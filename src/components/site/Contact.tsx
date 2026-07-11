@@ -67,14 +67,14 @@ export function Contact() {
                   </div>
                 ))}
               </div>
-              <div className="mt-8 aspect-[16/10] rounded-2xl overflow-hidden border border-white/10 relative">
+              {/* <div className="mt-8 aspect-[16/10] rounded-2xl overflow-hidden border border-white/10 relative">
                 <iframe
                   title="Location"
                   src=""
                   className="absolute inset-0 h-full w-full grayscale contrast-125"
                   loading="lazy"
                 />
-              </div>
+              </div> */}
             </div>
           </Reveal>
 
