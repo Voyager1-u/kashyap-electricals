@@ -77,14 +77,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Shri Vaari Electrotech — EPC, LT & HT Panels, Industrial Electrification" },
+      { title: "Kashyap Electricals — EPC, LT & HT Panels, Industrial Electrification" },
       { name: "description", content: "ISO-certified electrical engineering: EPC contracting, LT & HT panel manufacturing, industrial electrification and power distribution across India." },
-      { property: "og:title", content: "Shri Vaari Electrotech Pvt. Ltd." },
+      { property: "og:title", content: "Kashyap Electricals Pvt. Ltd." },
       { property: "og:description", content: "Powering industries — EPC, LT & HT panels, industrial electrification and power distribution across India." },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "/" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:title", content: "Shri Vaari Electrotech Pvt. Ltd." },
+      { name: "twitter:title", content: "Kashyap Electricals Pvt. Ltd." },
       { name: "twitter:description", content: "ISO-certified electrical engineering & EPC contractor." },
     ],
     links: [
